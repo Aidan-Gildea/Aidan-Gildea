@@ -7,7 +7,7 @@ Robotics and systems, Los Angeles. I like building the whole stack: mechanisms, 
 ## Builds
 
 - [robot-arm-3dof, "Hubert"](https://github.com/Aidan-Gildea/robot-arm-3dof): a 3-DOF arm built for about $100. Inverse kinematics derived from first principles, Arduino and Python serial control, full CAD and BOM, three demo videos.
-- [SimpleISA](https://github.com/Aidan-Gildea/SimpleISA): my own 32-bit instruction set with a two-pass assembler, disassembler, emulator, and a gate-level CPU in Logisim that runs the same bytecode.
+- [full-stack-8bit-cpu](https://github.com/Aidan-Gildea/full-stack-8bit-cpu): an 8-bit CPU built gate by gate in Logisim, its arithmetic core rebuilt with real ICs on a breadboard, programmed through my own ISA, assembler, and emulator.
 - [NeuralNetworks](https://github.com/Aidan-Gildea/NeuralNetworks): perceptrons, backpropagation, minimax, and a genetic Flappy Bird, from scratch in C# with no libraries.
 - [SRILAB-3d-Reconstruction-Pipeline](https://github.com/Aidan-Gildea/SRILAB-3d-Reconstruction-Pipeline): a guide to turning Polycam scans of real rooms into simulation-ready Isaac Sim scenes.
 
